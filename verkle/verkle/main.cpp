@@ -14,6 +14,7 @@ int main(int argc, const char * argv[]) {
     int number;
     cin >> number;
     cout << number+number;
+    cout << number+number+number;
     
     return 0;
 }
